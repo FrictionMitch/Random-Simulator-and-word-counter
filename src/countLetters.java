@@ -1,4 +1,4 @@
-public class countLetters {
+public class CountLetters {
 
     public void countLetters(String message) {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";

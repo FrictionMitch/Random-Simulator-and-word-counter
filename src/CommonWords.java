@@ -35,8 +35,9 @@ public class CommonWords {
     }
 
     public void countShakespear() {
-        String[] plays = {"caesar.txt", "errors.txt", "hamlet.txt",
-                "likeit.txt", "macbeth.txt", "romeo.txt"};
+//        String[] plays = {"caesar.txt", "errors.txt", "hamlet.txt",
+//                "likeit.txt", "macbeth.txt", "romeo.txt"};
+        String[] plays = {"romeo.txt"};
 
         String[] common = getCommon();
         int[] counts = new int[common.length];
