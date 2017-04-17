@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4df9e47f-f494-41ea-b0ca-e4225c8dd291" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/smallHamlet.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Random Simulator/WordLengths.class" afterPath="$PROJECT_DIR$/out/production/Random Simulator/WordLengths.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordLengths.java" afterPath="$PROJECT_DIR$/src/WordLengths.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/errors.txt" afterPath="$PROJECT_DIR$/src/data/errors.txt" />
-    </list>
+    <list default="true" id="4df9e47f-f494-41ea-b0ca-e4225c8dd291" name="Default" comment="" />
     <ignored path="Random Simulator.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,8 +55,8 @@
       <file leaf-file-name="WordLengths.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WordLengths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8552632">
-              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.46052632">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -718,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WordLengths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8552632">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.46052632">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
